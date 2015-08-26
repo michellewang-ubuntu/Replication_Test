@@ -1,1 +1,1 @@
-Add some test for replication from github to gerrit.
+One more test for replication from github to gerrit
