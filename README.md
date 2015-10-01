@@ -11,3 +11,5 @@ Replication_Test
 [![Build Status](https://ci.storm-enroute.com:8080/job/public-macrogl/badge/icon?style=plastic)](http://107.189.120.119/job/photon_build_dev/)
 
 
+<a href='http://107.189.120.119/job/photon_build_dev'><img src='http://107.189.120.119/buildStatus/icon?job=photon_build_dev'></a>
+
