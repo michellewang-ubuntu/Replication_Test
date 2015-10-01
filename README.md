@@ -14,6 +14,6 @@ http://107.189.120.119/buildStatus/icon?job=photon_build_dev
 
 Unprotected without view Markdown
 
-[![Build Status](http://107.189.120.119/buildStatus/icon?job=photon_build_dev)](http://107.189.120.119/job/photon_build_dev)
+[![Build Status](http://107.189.120.119/buildStatus/icon?job=photon_build_dev)]
 
-<a href='http://107.189.120.119/job/photon_build_dev'><img src='http://107.189.120.119/buildStatus/icon?job=photon_build_dev'></a>
+
